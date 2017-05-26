@@ -1,0 +1,9 @@
+body {
+    background-color: black;
+    background-image: url(imagenes/jovenes.jpg);
+    font-size: xx-large;
+    /*tamaño de la fuente*/
+    font-family: Georgia;
+    font-weight: bold;
+    /*ancho de los caracteres*/
+}
